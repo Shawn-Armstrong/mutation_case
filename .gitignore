@@ -1,0 +1,80 @@
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# Gradle files
+.gradle/
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Project files
+*.iws
+*.iml
+*.ipr
+
+# IDEA
+.idea/
+*.idea
+*.idea/modules
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Mac OS X
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# Package directories
+!*/build/libs/
+
+# Gradle wrapper directory
+!gradle/wrapper/
+
+# Groovy Eclipse plugin
+bin/
+
+# Node.js artifacts
+node_modules/
+npm-debug.log
+
+# Avoid ignoring build output of Gradle
+!/build/libs/
+!/build/distributions/
+
+# End of https://www.toptal.com/developers/gitignore/api/java,gradle,groovy
+
+.vscode/
