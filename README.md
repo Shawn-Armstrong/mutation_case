@@ -7,7 +7,7 @@
   <p align="center">
     <kbd><img src="https://github.com/Shawn-Armstrong/mutation_case/assets/80125540/4ff9cdff-796c-4191-bd7f-dbf98ab9436c.png" alt="Descriptive text for the image"><kbd></kbd>
   </p>
-- The mutant can be recreated locally and observed at `MyJavaProject2/app/build/reports/pitest/index.html` with the following
+- The mutant of interest lives at `MyJavaProject2/app/src/main/java/myjavaproject2/Toto.java` and can be recreated locally with the following:
     
   ```Console
   git clone https://github.com/Shawn-Armstrong/mutation_case.git
